@@ -11,6 +11,7 @@ This is a demo website for Gold Star Barber Academy LLC, a barber academy based 
 - **HTML**: Used for structuring the content of the web page.
 - **CSS**: Employed for styling and layout design.
 - **CSS Flexbox**: Utilized for creating a responsive design.
+- **Javascript**: Used to give smooth functionality to the web page.
 
 ## Features
 - **Responsive Design**: The website is designed to adapt seamlessly across various devices and screen sizes.
