@@ -24,3 +24,17 @@ This is a demo website for Gold Star Barber Academy LLC, a barber academy based 
 - **Real-time Features**: Integrating real-time updates, news, and announcements related to the academy.
 
 This website is a work in progress, and future updates are planned to enhance its functionality and provide a comprehensive representation of Gold Star Barber Academy LLC.
+
+![Homepage](screenshot/homepage.png)
+
+![About](screenshot/about.png)
+
+![Instructors](screenshot/instructors.png)
+
+![Programs](screenshot/programs.png)
+
+![Program-cards](screenshot/program-cards.png)
+
+![Program-cards-one](screenshot/program-cards-one.png)
+
+![coming-soon](screenshot/coming-soon.png)
