@@ -386,7 +386,36 @@ button {
     background-color: #e39c15;
 }
 
-.home-container, .about-container, .programs-container {
+.email {
+    text-decoration: none;
+    color: #fff;
+}
+
+.admissions-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15vh;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15vh;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15vh;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.home-container, .about-container, .programs-container, .admissions-container, .services-container{
     flex: 1; /* Allow the sections to flex and take up remaining space */
 }
 
