@@ -1,21 +1,10 @@
 /* Default styles */
 body {
-    /* background-color: #5F5B5B; */
     background-color: #111111;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
-
-/* .shadow {
-    position: absolute;
-    width: 100px; Adjust the size of the shadow
-    height: 100px; Adjust the size of the shadow
-    background-color: rgba(255, 255, 255, 0.2); Adjust the shadow color and transparency
-    border-radius: 50%;
-    pointer-events: none;
-    transition: transform 0.15s ease-out;
-  } */
 
 img {
     border-radius: 6px;
@@ -279,7 +268,6 @@ ul {
 /* Target the scrollbar thumb (the draggable part) */
 .card::-webkit-scrollbar-thumb {
     background: linear-gradient(to bottom, #e39c15, #f9f295, #e39c15, #f9f295);
-    /* background: linear-gradient(0.25turn, #f9f295, #e39c15); */
 }
 
 /* Target the scrollbar track when hovered over */
@@ -339,12 +327,6 @@ ul {
 }
 
 .programs-card-container {
-    /* display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    max-width: 75vw;
-    justify-content: center;
-    width: 30vw; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between; /* Add space between the cards */
